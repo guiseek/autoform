@@ -1,0 +1,21 @@
+{
+  "name": "autoform",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "@types/prismjs": "^1.26.0",
+    "sass": "^1.62.0",
+    "typescript": "^4.9.3",
+    "vite": "^4.2.0"
+  },
+  "dependencies": {
+    "prismjs": "^1.29.0",
+    "reflect-metadata": "^0.1.13"
+  }
+}
